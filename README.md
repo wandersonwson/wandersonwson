@@ -23,7 +23,7 @@ Habilidades e interesses:
 
 Onde me encontrar:
 <div>
-  <a href="https://www.linkedin.com/in/wanderson-sousa-alves-36652656/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/wson-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="https://www.twitter.com/wandersonwson/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/wson.alves/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </div>
