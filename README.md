@@ -2,10 +2,10 @@
 
 Algumas informações importantes sobre mim:
 
-- 🔭 Estou em transição de carreira após 5 anos de atuação como professor do <a href="https://portal.ifma.edu.br/inicio/">Instituto Federal do Maranhão</a>;
 - 🌱 Sou bacharel em Sistemas de Informação e especialista em Tecnologias para Aplicações Web;
+- 🔭 Atuei por 5 anos como professor do <a href="https://portal.ifma.edu.br/inicio/">Instituto Federal do Maranhão</a>;
 - 🌱 Possuo conhecimento em desenvolvimento de sistemas com Java, padrões de projeto e metodologias ágeis;
-- 🤔 Estou buscando a minha primeira oportunidade de trabalho como desenvolvedor backend com Java e Spring.
+- 🤔 Estou buscando a minha primeira oportunidade de trabalho como desenvolvedor backend.
 
 Habilidades e interesses:
 
@@ -15,6 +15,7 @@ Habilidades e interesses:
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
@@ -24,7 +25,6 @@ Habilidades e interesses:
 Onde me encontrar:
 <div>
   <a href="https://www.linkedin.com/in/wson-alves/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://www.twitter.com/wandersonwson/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/wson.alves/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </div>
 
